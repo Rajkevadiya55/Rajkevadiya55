@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
-      src="https://www.linkedin.com/in/raj-kevadiya-413072284/"
+      src="https://www.iconfinder.com/icons/317750/linkedin_icon"
       alt="Raj kevadiya" height="30" width="40" /></a>
  
 </p>
