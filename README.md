@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Raj Kevadiya</h1>
-<h3 align="center">Android Devloper🌟.</h3>
+<h3 align="center">Android Developer🌟.</h3>
 
 <br>
 
