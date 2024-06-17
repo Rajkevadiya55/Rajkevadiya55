@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Raj Kevadiya</h1>
-<h3 align="center">Android Developer🌟.</h3>
+<h3 align="center">Flutter Developer🌟.</h3>
 
 <br>
 
@@ -13,7 +13,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Android Development and other programming languages
+- 🌱 I’m currently learning Flutter Development and other programming languages
 
 - 📫 How to reach me **kevadiyar98@gmail.com**
 
